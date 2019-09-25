@@ -1,0 +1,14 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="background Color" />
+      <item value="background" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="2" />
+        <entry key="CHINESE_TRADITIONAL" value="1" />
+      </map>
+    </option>
+  </component>
+</application>
