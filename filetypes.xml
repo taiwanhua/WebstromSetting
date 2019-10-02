@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="ECtest" type="JavaScript" />
       <mapping ext="jason" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
